@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo ao meu Perfil do GitHub 👋</h1>
 <p align="center">
-  <img src="https://github.com/seu_usuario/seu_repositorio/blob/main/assets/avatar.png" alt="Avatar" width="200" height="200">
+  <img src="https://media.licdn.com/dms/image/C4D03AQFyQ5vjcn4uHw/profile-displayphoto-shrink_800_800/0/1572392434103?e=2147483647&v=beta&t=hLErU-dOsJRI3X6fXJeV7yt7_4faFC52ayEISQS7spQ" alt="Avatar" width="200" height="200">
 </p>
 <h2 align="center">Olá, eu sou o Gustavo Lima! 🚀</h2>
 
